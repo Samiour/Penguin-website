@@ -1,0 +1,56 @@
+body h1{
+      font-family: 'Oswald', sans-serif;
+}
+.logo-img-div img{
+      height: 50px;
+      width: 350px;
+      margin-left: 150px;
+}
+.nav-bar-options{
+      margin-left: 150px;
+      
+}
+.logo-girl-img-col img{
+      width: 100%;
+}
+.logo-girl-heading-col{
+      margin-left: 20px;
+}
+.logo-girl-heading-col h1{
+      font-size:4em ;
+}
+.btn {
+      background-color: rgb(82, 158, 67);
+      
+      color: white;
+      padding: 15px 25px;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 10px;
+      margin-right: 20px;
+      background-image: linear-gradient(-180deg, rgb(103, 136, 49), rgb(122, 168, 47) );
+    }
+    
+  .girls-dress-card img {
+         
+        background-color: rgba(128, 128, 128, 0.158);
+        border-radius: 20px;
+      
+  }
+  .girl-dress-footer{
+        border: none;
+        background-color: white;
+  }
+
+  .icon-img-div img{
+        height: 80px;
+        width: 90px;
+  }
+
+  .penguin-container img{
+       width: 350px;
+  }
+  
+          
+
+   
